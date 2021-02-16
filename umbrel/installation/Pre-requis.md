@@ -32,9 +32,9 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 
 ## Minumum requis:
 - Un ordinateur 
-- Un lecteur/graveur de carte microSD (a commander ci-dessus si vous n'en avez pas)
+- Un lecteur/graveur microSD (a commander ci-dessus si vous n'en avez pas)
 - Un routeur avec un port RJ45 disponible 
-
+	
 
 ## Installez Balena Etcher
 Téléchargez et installez le logiciel Balena Etcher, nous l'utiliserons a l'étape suivante. 
