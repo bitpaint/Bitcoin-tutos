@@ -6,13 +6,13 @@ nav_order: 1
 
 # Tutoriels:
 
-# Bitcoin logiciel
+### Bitcoin logiciel
 {: .btn }
 - Umbrel
 - BTCPay
 
 
-# Bitcoin apps
+### Bitcoin apps
 {: .btn }
 - Zap 
 - Bluewallet
@@ -20,7 +20,7 @@ nav_order: 1
 - Zeus
 
 
-# Vie privée
+### Vie privée
 {: .btn }
 
 ### GrapheneOS
