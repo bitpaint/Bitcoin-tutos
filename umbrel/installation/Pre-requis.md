@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1) Pré requis
-parent: Umbrel
+parent: ☂ Umbrel
 nav_order: 1
 ---
 
