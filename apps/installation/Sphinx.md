@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sphinx
-parent: apps
+parent: Apps
 nav_order: 2
 ---
 

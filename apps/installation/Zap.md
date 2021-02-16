@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zap
-parent: apps
+parent: Apps
 nav_order: 1
 ---
 
