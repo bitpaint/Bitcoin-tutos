@@ -38,11 +38,11 @@ Pareil pour les cartes SD. N'économisez pas sur ces piéces.<br>
 ## Installez Balena Etcher sur votre ordinateur
 
 **Téléchargez et installez le logiciel Balena Etcher, <br>nous l'utiliserons a l'étape suivante. **
-   [👉Balena.io/etcher](https://www.balena.io/etcher/){: .btn .btn-outline }
+👉[Balena.io/etcher](https://www.balena.io/etcher/){: .btn .btn-outline }
 <br>
 ## Téléchargez Umbrel OS 
 Téléchargez le systéme d'exploitation Umbrel-OS, <br>nous l'utiliserons a l'étape suivante.<br>
-   [👉Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
+👉[Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
 
 
 <br>
