@@ -3,8 +3,9 @@ layout: default
 title: Acceuil
 nav_order: 1
 ---
-<span class="fs-8"> Bienvenue! </span>
+
 <center>
+<span class="fs-8"> Bienvenue! </span>
 <b>Vous trouverez ici toute sorte de documentation.</b><br>
 J'utilise en général un ordinateur Windows 10, mis a jour ainsi qu'un téléphone Android Google Pixel 4a<br>
 Cependant, la plupart des tutoriels restent les mêmes pour Mac et iOS.<br><br>
