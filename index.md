@@ -7,13 +7,13 @@ nav_order: 1
 # Tutoriels:
 
 # Bitcoin logiciel
-{: .label .label-white }
+{: .btn }
 - Umbrel
 - BTCPay
 
 
 # Bitcoin apps
-{: .label .label-grey }
+{: .btn }
 - Zap 
 - Bluewallet
 - Sphinx
@@ -21,6 +21,6 @@ nav_order: 1
 
 
 # Vie privée
-{: .label .label-purple }
+{: .btn }
 
 ### GrapheneOS
