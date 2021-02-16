@@ -4,6 +4,7 @@ title: Umbrel
 nav_order: 3
 has_children: true
 ---
+![Umbrel](https://getumbrel.com/images/umbrel-logo.svg "Umbrel")
 # Umbrel
 
 ##  L'aventure bitcoin commence ici!  <br><br>
