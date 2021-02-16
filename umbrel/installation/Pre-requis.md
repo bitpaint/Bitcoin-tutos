@@ -6,11 +6,20 @@ nav_order: 1
 ---
 
 
-## ** Etape 1. Commandez le nécessaire. **
+##  Etape 1. Commandez le nécessaire. 
 
-👉 Faite bien attention:
-Commandez l'alimentation de RaspberryPi4.<br>
+⚠️ Faites bien attention ⚠️
+Commandez l'alimentation **oficielle** RaspberryPi4.<br>
 Les non-officiels (souvents vendus dans les kits) causent des erreurs.
+
+
+## Minumum requis:
+- Un routeur avec un port RJ45 disponible 
+- Un lecteur/graveur de carte microSD (Si vous n'en avez pas, commandez ceci: https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318
+- Un ordinateur 
+
+
+## Liste de piéces:
 
 | Piéce        | Minimum requis | Version performance |
 |:-------------|:------------------|:------|
