@@ -6,8 +6,9 @@ nav_order: 2
 ---
 
 
-## Etape 1. Gravez l'image sur la carte SD. 
-
-## Etape 2. Introduire la carte SD et branchez le Pi4. 
-
-## Etape 3. Rendez vous sur: umbrel.local  
+# Etape 1. Gravez l'image sur la carte SD. 
+Lorel ipsum
+# Etape 2. Introduire la carte SD et branchez le Pi4. 
+### Lorel ipsum
+# Etape 3. Rendez vous sur: umbrel.local  
+Lorel ipsum
