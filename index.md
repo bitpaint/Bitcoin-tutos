@@ -1,8 +1,7 @@
 ---
 layout: default
-title: UI Components
-nav_order: 2
-has_children: true
+title: 🏠Acceuil
+nav_order: 1
 ---
 
 ## test	

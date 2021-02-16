@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Buttons
-parent: UI Components
+title: 1) Pre-requis
+parent: Umbrel
 nav_order: 1
 ---
 

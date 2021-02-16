@@ -1,13 +1,11 @@
 ---
 layout: default
-title: 2) Installation
-parent: Umbrel
+title: Umbrel
 nav_order: 2
+has_children: true
 ---
 
-
-
-## test
+## test	
 
 You can use the [editor on GitHub](https://github.com/bitpaint/bitcoin-tutos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
