@@ -4,11 +4,11 @@ title: Umbrel
 nav_order: 3
 has_children: true
 ---
+<center>
 ![Umbrel](https://getumbrel.com/images/umbrel-logo.svg "Umbrel")
 # Umbrel
-
-##  L'aventure bitcoin commence ici!  <br><br>
-
+## L'aventure bitcoin commence ici!  <br><br>
+</center>
 Umbrel est un noeud bitcoin, **votre noeud bitcoin.** <br>
 Umbrel est un logiciel gratuit mais nécessite du "hardware".<br>
 Un petit ordinateur **Raspberry Pi4** est parfait pour cela. <br>
@@ -27,4 +27,6 @@ Et il faut aussi un disque dur, pour stocker la fameuse **"blockchain"**!  <br>
 ### Le tout sur votre propre micro-ordinateur!
 <br>
 
+<span class="fs-8"><center>
 [C'est parti!](/bitpaint-tutos/umbrel/installation/Pre-requis.html){: .btn .btn-purple }
+</center></span>

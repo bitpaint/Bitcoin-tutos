@@ -13,7 +13,7 @@ nav_order: 1
 ⚠️ Attention ⚠️
 {: .btn }
 Commandez l'alimentation **oficielle** RaspberryPi4.<br>
-Les non-officiels (souvents vendus dans les kits) causent des erreurs.
+Les alimentations non-officiels (souvents vendus dans les kits) causent des erreurs.
 
 
 ## Liste de piéces:
@@ -50,4 +50,4 @@ Téléchargez le systéme d'exploitation Umbrel-OS, <br>nous l'utiliserons a l'�
 
 
 <br>
-[Tout recu? Etape suivante!](/bitpaint-tutos/umbrel/installation/Installation.html){: .btn .btn-purple }
+[Tout recu, tout téléchargé? Etape suivante!](/bitpaint-tutos/umbrel/installation/Installation.html){: .btn .btn-purple }
