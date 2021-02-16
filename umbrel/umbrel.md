@@ -4,9 +4,9 @@ title: Umbrel
 nav_order: 2
 has_children: true
 ---
-## Umbrel
+# Umbrel
 
-#  L'aventure bitcoin commence ici!  <br><br>
+##  L'aventure bitcoin commence ici!  <br><br>
 
 Umbrel est un noeud bitcoin, **votre noeud bitcoin.** <br>
 Umbrel est un logiciel gratuit mais nécessite du "hardware" ...<br>
@@ -24,8 +24,7 @@ Dans Umbrel, vous avez:
 - Votre serveur Samourai DOJO
 - et bien plus encore...
 <br>
-### Le tout sur votre propre micro-ordinateur RaspberryPie!
+### Le tout sur votre propre micro-ordinateur!
 <br>
-### C'est parti? <br>
 
 [C'est parti!](/bitpaint-tutos/umbrel/installation/Pre-requis.html){: .btn .btn-purple }
