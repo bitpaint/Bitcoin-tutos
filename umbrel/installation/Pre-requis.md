@@ -26,7 +26,7 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 | microSD 16GB+ | U1 16 GB    | U1 16 GB   |
 | Alimentation     | RaspberryPi4 | RaspberryPi4  |
 | Cable RJ45     | 50cm | 50cm |
-| **Panier galaxus**     | [189.-](https://www.balena.io/etcher/){: .btn .btn-outline } | [329.-](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }  |
+| **Panier galaxus**     | [**189.-**](https://www.balena.io/etcher/){: .btn .btn-outline } | [329.-](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }  |
 
  [Optionel: lecteur/graveur microSD](https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318){: .btn }
 

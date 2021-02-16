@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Graphene OS
-nav_order: 4
+title: BTCPay
+nav_order: 2
 has_children: true
 ---
 # Graphene OS
@@ -14,7 +14,7 @@ un petit ordinateur **Raspberry Pi4** est parfait pour cela. <br>
 <br>
 Il faut aussi un disque dur, pour stocker la fameuse **"blockchain"**.  <br>
 <br>
-Dans Umbrel, vous avez:
+## Dans BTCPay, vous avez:
 <br>
 - Votre noeud Bitcoin
 - Votre noeud Lighting (Payements instantanés et sans frais)
