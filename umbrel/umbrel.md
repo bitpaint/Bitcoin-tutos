@@ -28,4 +28,4 @@ Avec umbrel, vous avez:
 
 ### Convaincu? 
 
-[C'est parti!](/installation/Pre-requis.html){: .btn .btn-purple }
+[C'est parti!](/bitpaint-tutos/umbrel/installation/Pre-requis.html){: .btn .btn-purple }

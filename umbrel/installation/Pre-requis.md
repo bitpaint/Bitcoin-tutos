@@ -14,9 +14,9 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 
 
 ## Minumum requis:
-- Un routeur avec un port RJ45 disponible 
-- Un lecteur/graveur de carte microSD (Si vous n'en avez pas, commandez ceci: https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318
 - Un ordinateur 
+- Un lecteur/graveur de carte microSD [Si vous n'en avez pas, commandez ceci!](https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318){: .btn }
+- Un routeur avec un port RJ45 disponible 
 
 
 ## Liste de piéces:
@@ -36,5 +36,13 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 |:-------------|:------------------|:------|
 | Adaptateur carte SD  USB  | good swedish fish | nice  |
 
-[balena etcher](https://www.balena.io/etcher/){: .btn .btn-outline }
-[umbrel image](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
+
+## Installez Balena Etcher
+[Site officiel](https://www.balena.io/etcher/){: .btn .btn-outline }
+
+
+## Téléchargez Umbrel OS
+[Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
+
+
+[Tout recu? Etape suivante!](/bitpaint-tutos/umbrel/installation/Pre-requis.html){: .btn .btn-purple }
