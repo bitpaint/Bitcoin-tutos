@@ -4,17 +4,19 @@ title: 🏠 Acceuil
 nav_order: 1
 ---
 
-# Bienvenue
-!(https://i0.wp.com/bitpaint.club/wp-content/uploads/2020/09/ezgif.com-resize.gif )
+# Bienvenue!
 **Vous trouverez ici toute sorte de documentation.<br>**
-J'utilise en général un ordinateur (Windows 10) ainsi qu'un téléphone Android (Google Pixel 4a) mais la plupart des tutoriels sont les mémes pour Mac et iOS.<br><br>
+J'utilise en général un ordinateur Windows 10, mis a jour ainsi qu'un téléphone Android Google Pixel 4a<br>
+Cependant, la plupart des tutoriels restent les mêmes pour Mac et iOS.<br><br>
 **Une erreur? Une idée? Contactez moi!<br>**
 **twitter: @bitpaintclub - telegram: @bitpaint**
-
+test
+<c>test</c>
+<center>test</center>
 <br>
 
 <span class="fs-8">
-[Noeud Bitcoin](http://example.com/){: .btn }
+Noeud Bitcoin
 </span>
 
 <span class="fs-3">
@@ -24,10 +26,11 @@ J'utilise en général un ordinateur (Windows 10) ainsi qu'un téléphone Androi
 [BTCPay](http://example.com/){: .btn }
 </span>
 
-<span class="fs-8">
-[Les apps Bitcoin](http://example.com/){: .btn }
-</span>
 
+<br><br>
+<span class="fs-8">
+Tuto apps
+</span>
 <span class="fs-3">
 [Zap](http://example.com/){: .btn }
 </span>
@@ -41,10 +44,10 @@ J'utilise en général un ordinateur (Windows 10) ainsi qu'un téléphone Androi
 [Bluewallet](http://example.com/){: .btn }
 </span>
 
+<br><br>
 <span class="fs-8">
-[Vie privée](http://example.com/){: .btn }
+Vie privée
 </span>
-
 <span class="fs-3">
 [GrapheneOS](http://example.com/){: .btn }
 </span>

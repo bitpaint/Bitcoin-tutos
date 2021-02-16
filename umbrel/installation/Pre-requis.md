@@ -28,7 +28,7 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 | Cable RJ45     | 50cm | 50cm |
 | **Panier galaxus**     | [**189.-**](https://www.balena.io/etcher/){: .btn .btn-outline } | [329.-](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }  |
 
- [Optionel: lecteur/graveur microSD](https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318){: .btn <p align="center"> }
+ [Optionel: lecteur/graveur microSD](https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318){: .btn }
 
 ## Minumum requis:
 - Un ordinateur 
@@ -39,13 +39,13 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 ## Installez Balena Etcher
 Téléchargez et installez le logiciel Balena Etcher, nous l'utiliserons a l'étape suivante. 
 
-	[Site officiel](https://www.balena.io/etcher/){: .btn .btn-outline }
+   [Site officiel](https://www.balena.io/etcher/){: .btn .btn-outline }
 
 
 <br>
 ## Téléchargez Umbrel OS
-Téléchargez le systéme d'exploitation Umbrel-OS, nous l'utiliserons a l'étape suivante. 
-	[Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
+Téléchargez le systéme d'exploitation Umbrel-OS, <br>nous l'utiliserons a l'étape suivante. 👇
+   [Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
 
 
 
