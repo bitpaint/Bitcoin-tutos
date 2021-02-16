@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1) Pre-requis
+title: 1) Pré requis
 parent: Umbrel
 nav_order: 1
 ---
@@ -12,7 +12,7 @@ nav_order: 1
 Commandez l'alimentation de RaspberryPi4.<br>
 Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 
-| Piéce        | Minimum          | Performance |
+| Piéce        | Minimum requis | Version performance |
 |:-------------|:------------------|:------|
 | Boitier  | Flirc   | Cryptocloaks.com|
 | Raspberry Pi4  | 4GB RAM			   | 8GB RAM|
