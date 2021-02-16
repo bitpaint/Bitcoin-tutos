@@ -8,6 +8,7 @@ nav_order: 1
 
 ##  Etape 1. Commandez le nécessaire. 
 <br>
+<br>
 
 ⚠️ Faites bien attention ⚠️
 {: .label .label-red }
