@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 
-## Etape 1. Commandez le nécessaire.
+## Etape 1. Commandez le nécessaire. 
 
 👉 Faite bien attention: commandez l'alimentation officielle de RaspberryPi4. Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 
