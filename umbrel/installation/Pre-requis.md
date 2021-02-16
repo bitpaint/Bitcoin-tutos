@@ -8,12 +8,12 @@ nav_order: 1
 
 # Commandez le nécessaire. 
 <br>
+
+
+⚠️ Attention ⚠️
+{: .btn }
 Commandez l'alimentation **oficielle** RaspberryPi4.<br>
 Les non-officiels (souvents vendus dans les kits) causent des erreurs.
-
-⚠️ Faites bien attention ⚠️
-{: .btn }
-
 
 
 ## Liste de piéces:
@@ -28,7 +28,7 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 | Cable RJ45     | 50cm | 50cm |
 | **Panier galaxus**     | [**189.-**](https://www.balena.io/etcher/){: .btn .btn-outline } | [329.-](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }  |
 
- [Optionel: lecteur/graveur microSD](https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318){: .btn }
+ [Optionel: lecteur/graveur microSD](https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318){: .btn <p align="center"> }
 
 ## Minumum requis:
 - Un ordinateur 
