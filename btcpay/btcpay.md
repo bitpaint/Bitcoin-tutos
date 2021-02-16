@@ -4,11 +4,10 @@ title: BTCPay
 nav_order: 2
 has_children: true
 ---
-<center>
+
 ![BTCPay](https://getumbrel.com/images/umbrel-logo.svg "BTCPay")
 # BTCPay
 ## L'aventure bitcoin commence ici!  <br><br>
-</center>
 Umbrel est un noeud bitcoin, **votre noeud bitcoin.** <br>
 Umbrel est un logiciel gratuit mais nécessite du "hardware" ...<br>
 un petit ordinateur **Raspberry Pi4** est parfait pour cela. <br>
