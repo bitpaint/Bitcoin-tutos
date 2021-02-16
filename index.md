@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🏠Acceuil
+title: 🏠 Acceuil
 nav_order: 1
 ---
 
