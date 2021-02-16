@@ -7,10 +7,10 @@ nav_order: 1
 
 
 ##  Etape 1. Commandez le nécessaire. 
+<br>
 
 ⚠️ Faites bien attention ⚠️
 {: .label .label-red }
-
 Commandez l'alimentation **oficielle** RaspberryPi4.<br>
 Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 
@@ -38,18 +38,18 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 
 
 ## Installez Balena Etcher
-Téléchargez et installez le logiciel Balena Etcher, nous l'utiliserons a l'étape suivante. 
+		Téléchargez et installez le logiciel Balena Etcher, nous l'utiliserons a l'étape suivante. 
 
-[Site officiel](https://www.balena.io/etcher/){: .btn .btn-outline }
+		[Site officiel](https://www.balena.io/etcher/){: .btn .btn-outline }
 
 
 <br>
 ## Téléchargez Umbrel OS
-Téléchargez le systéme d'exploitation Umbrel-OS, nous l'utiliserons a l'étape suivante. 
+		Téléchargez le systéme d'exploitation Umbrel-OS, nous l'utiliserons a l'étape suivante. 
 
-[Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
+		[Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
 
 
 
 <br>
-[Tout recu? Etape suivante!](/bitpaint-tutos/umbrel/installation/Pre-requis.html){: .btn .btn-purple }
+[Tout recu? Etape suivante!](/bitpaint-tutos/umbrel/installation/Installation.html){: .btn .btn-purple }
