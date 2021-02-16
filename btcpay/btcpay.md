@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BTCPay
-nav_order: 2
+nav_order: 
 has_children: true
 ---
 
