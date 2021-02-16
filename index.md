@@ -3,18 +3,19 @@ layout: default
 title: Acceuil
 nav_order: 1
 ---
-# Bienvenue!
-**Vous trouverez ici toute sorte de documentation.<br>**
+<span class="fs-8"> Bienvenue! </span>
+<center>
+<b>Vous trouverez ici toute sorte de documentation.</b><br>
 J'utilise en général un ordinateur Windows 10, mis a jour ainsi qu'un téléphone Android Google Pixel 4a<br>
 Cependant, la plupart des tutoriels restent les mêmes pour Mac et iOS.<br><br>
-**Une erreur? Une idée? Contactez moi!<br>**
-**twitter: @bitpaintclub - telegram: @bitpaint**
-
+Une erreur? Une idée? <b>Contactez moi!<br></b>
+twitter: @bitpaintclub - telegram: @bitpaint
+</center>
 <br>
 
-<span class="fs-8">
-Noeud Bitcoin
-</span>
+
+# Noeud Bitcoin
+
 
 <span class="fs-3">
 [Umbrel](http://example.com/){: .btn }
