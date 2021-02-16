@@ -44,7 +44,7 @@ Tuto apps
 <br><br>
 <span class="fs-8">
 Vie privée
-</span>
+</span><br>
 <span class="fs-3">
 [GrapheneOS](http://example.com/){: .btn }
 </span><br>
