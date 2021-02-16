@@ -10,6 +10,7 @@ nav_order: 1
 <br>
 Commandez l'alimentation **oficielle** RaspberryPi4.<br>
 Les non-officiels (souvents vendus dans les kits) causent des erreurs.
+
 ⚠️ Faites bien attention ⚠️
 {: .btn }
 
