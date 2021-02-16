@@ -13,27 +13,6 @@ J'utilise en général un ordinateur (Windows 10) ainsi qu'un téléphone Androi
 ![Umbrel](https://getumbrel.com/images/umbrel-logo.svg "Umbrel")
 <br>
 
-#
-### Bitcoin logiciel
-{: .btn }
-- Umbrel
-- BTCPay
-
-
-#### Bitcoin apps
-{: .btn }
-- Zap 
-- Bluewallet
-- Sphinx
-- Zeus
-
-
-#### Vie privée
-{: .btn }
-
-#### GrapheneOS
-
-
 <span class="fs-8">
 [Noeud Bitcoin](http://example.com/){: .btn }
 </span>
