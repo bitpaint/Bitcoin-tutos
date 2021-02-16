@@ -7,9 +7,9 @@ has_children: true
 
 ## Umbrel ☂️	
 
-### L'aventure bitcoin commence ici!
+### ** L'aventure bitcoin commence ici! **
 
-Umbrel est un noeud bitcoin, votre noeud bitcoin.
-Umbrel est gratuit mais nécessite du "hardware"... un petit ordinateur Raspberry Pi4 est parfait.
-Il faut aussi un disque dur, pour stocker la fameuse "blockchain". 
+Umbrel est un noeud bitcoin, **votre noeud bitcoin.** <br>
+Umbrel est un logiciel gratuit mais nécessite du "hardware" ... un petit ordinateur **Raspberry Pi4** est parfait pour cela. <br>
+Il faut aussi un disque dur, pour stocker la fameuse "blockchain".  <br>
 
