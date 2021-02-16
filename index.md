@@ -4,23 +4,22 @@ title: 🏠 Acceuil
 nav_order: 1
 ---
 
-### Tutoriels:
+# Tutoriels:
 
 ## Bitcoin logiciel
+{: .label .label-orange }
 - Umbrel
-{: .label .label-purple }
-
 - BTCPay
-
-# Bitcoin logiciel
 
 
 # Bitcoin apps
+{: .label .label-orange }
 - Zap 
 - Bluewallet
 - Sphinx
 - Zeus
 
 
-### Vie privée
-## GrapheneOS
+## Vie privée
+{: .label .label-orange }
+### GrapheneOS
