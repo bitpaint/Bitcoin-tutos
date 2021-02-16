@@ -1,6 +1,4 @@
 # Umbrel
-1.1 list
-1.2 lisrt
 **Obtenez umbrel ici: [Umbrel](https://getumbrel.com/).**
 
 ### Markdown
