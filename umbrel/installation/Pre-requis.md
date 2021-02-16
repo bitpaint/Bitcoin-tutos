@@ -6,15 +6,12 @@ nav_order: 1
 ---
 
 
-##  Etape 1. Commandez le nécessaire. 
+#  Etape 1. Commandez le nécessaire. 
 <br>
-<br>
-
-⚠️ Faites bien attention ⚠️
-{: .label .label-red }
 Commandez l'alimentation **oficielle** RaspberryPi4.<br>
 Les non-officiels (souvents vendus dans les kits) causent des erreurs.
-
+		⚠️ Faites bien attention ⚠️
+{: .label .label-red }
 
 
 
@@ -39,16 +36,15 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 
 
 ## Installez Balena Etcher
-		Téléchargez et installez le logiciel Balena Etcher, nous l'utiliserons a l'étape suivante. 
+	Téléchargez et installez le logiciel Balena Etcher, nous l'utiliserons a l'étape suivante. 
 
-		[Site officiel](https://www.balena.io/etcher/){: .btn .btn-outline }
+	[Site officiel](https://www.balena.io/etcher/){: .btn .btn-outline }
 
 
 <br>
 ## Téléchargez Umbrel OS
-		Téléchargez le systéme d'exploitation Umbrel-OS, nous l'utiliserons a l'étape suivante. 
-
-		[Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
+	Téléchargez le systéme d'exploitation Umbrel-OS, nous l'utiliserons a l'étape suivante. 
+	[Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
 
 
 
