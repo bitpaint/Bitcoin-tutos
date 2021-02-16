@@ -5,9 +5,10 @@ nav_order: 2
 has_children: true
 ---
 
-##️ Umbrel 	☂
+##️ Umbrel ☂
 
-###  L'aventure bitcoin commence ici! 
+
+#  L'aventure bitcoin commence ici!  ☂
 
 Umbrel est un noeud bitcoin, **votre noeud bitcoin.** <br>
 Umbrel est un logiciel gratuit mais nécessite du "hardware" ...
