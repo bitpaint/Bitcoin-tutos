@@ -26,7 +26,5 @@ Et il faut aussi un disque dur, pour stocker la fameuse **"blockchain"**!  <br>
 ### Le tout sur votre propre micro-ordinateur!
 <br>
 
-<span class="fs-8">
  [C'est parti!](/bitpaint-tutos/umbrel/installation/Pre-requis.html){: .btn .btn-purple }
 
-</span>
