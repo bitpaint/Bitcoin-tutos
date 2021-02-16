@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2) Installation
-parent: ☂ Umbrel
+parent: Umbrel
 nav_order: 2
 ---
 
