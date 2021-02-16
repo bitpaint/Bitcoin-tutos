@@ -1,1 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
+---
+layout: default
+title: Acceuil
+nav_order: 1
+---
