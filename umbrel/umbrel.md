@@ -4,11 +4,10 @@ title: Umbrel
 nav_order: 3
 has_children: true
 ---
-<center>
-![Umbrel](https://getumbrel.com/images/umbrel-logo.svg "Umbrel")
+
+![Umbrel](https://getumbrel.com/images/umbrel-logo.svg "Umbrel") 
 # Umbrel
 ## L'aventure bitcoin commence ici!  <br><br>
-</center>
 Umbrel est un noeud bitcoin, **votre noeud bitcoin.** <br>
 Umbrel est un logiciel gratuit mais nécessite du "hardware".<br>
 Un petit ordinateur **Raspberry Pi4** est parfait pour cela. <br>

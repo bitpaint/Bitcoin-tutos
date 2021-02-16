@@ -3,14 +3,12 @@ layout: default
 title: Acceuil
 nav_order: 1
 ---
-<center>
 # Bienvenue!
 **Vous trouverez ici toute sorte de documentation.<br>**
 J'utilise en général un ordinateur Windows 10, mis a jour ainsi qu'un téléphone Android Google Pixel 4a<br>
 Cependant, la plupart des tutoriels restent les mêmes pour Mac et iOS.<br><br>
 **Une erreur? Une idée? Contactez moi!<br>**
 **twitter: @bitpaintclub - telegram: @bitpaint**
-</center>
 
 <br>
 
