@@ -6,18 +6,19 @@ nav_order: 1
 
 
 <span class="fs-8"> Bienvenue! </span><br>
-<b>Vous trouverez ici toute sorte de documentation.</b><br>
+<b>Vous trouverez ici toute sorte de documentation concernant bitcoin, la vie privée et votre souverainetée numérique en général.</b><br>
 J'utilise en général un ordinateur Windows 10, mis a jour ainsi qu'un téléphone Android Google Pixel 4a<br>
-Cependant, la plupart des tutoriels restent les mêmes pour Mac et iOS.<br><br>
-Une erreur? Une idée? <b>Contactez moi!<br></b>
+La plupart des tutoriels restent les mêmes pour Mac et iOS.<br><br>
+Une erreur? Une idée? <br><b>Contactez moi!<br></b> 
 twitter: @bitpaintclub - telegram: @bitpaint
 
-{: .btn }
+	
 <br>
 
 
-# Noeud Bitcoin
-
+<br><br>
+<span class="fs-8">
+Noeuds bitcoin</span><br>
 
 <span class="fs-3">
 [Umbrel](http://example.com/){: .btn }
@@ -31,7 +32,7 @@ twitter: @bitpaintclub - telegram: @bitpaint
 <span class="fs-8">
 Tuto apps
 </span><br>
-<span class="fs-3">
+<span class="fs-3"><br>
 [Zap](http://example.com/){: .btn }
 </span>
 <span class="fs-3">
@@ -48,7 +49,7 @@ Tuto apps
 <span class="fs-8">
 Vie privée
 </span><br>
-<span class="fs-3">
+<span class="fs-3"><br>
 [GrapheneOS](http://example.com/){: .btn }
 </span><br>
 <span class="fs-3">
