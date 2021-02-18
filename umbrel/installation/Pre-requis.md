@@ -23,16 +23,16 @@ Pareil pour les cartes SD. N'économisez pas sur ces piéces.<br>
 
 ## Liste de piéces:
 | Piéce        | Minimum requis | Version performance |
-|:-------------|:------------------|:------|
-| **Boitier**  | Flirc   | Cryptocloaks.com|
-| **Raspberry Pi4 ** | 4GB RAM			   | 8GB RAM|
+|:-------------|:------------------|:------ |
+| **Boitier**  | Flirc   | Cryptocloaks.com |
+| **Raspberry Pi4 ** | 4GB RAM			   | 8GB RAM |
 | **Disque dur 1TB** | HDD 1TB   | SSD 1TB   |
 | **microSD 16GB+ **| U1 16 GB    | U1 16 GB   |
 | **Alimentation **    | RaspberryPi4 | RaspberryPi4  |
 | **Cable RJ45  **   | 50cm | 50cm |
 | **Panier galaxus**     | [**189.-**](https://www.balena.io/etcher/){: .btn .btn-outline } | [329.-](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }  |
 
- [Optionel: lecteur/graveur microSD](https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318){: .btn }
+[Optionel: lecteur/graveur microSD](https://www.galaxus.ch/fr/s1/product/sandisk-lecteur-usb-microsd-mobilemate-usb-30-lecteurs-de-cartes-9638318){: .btn }
 
 <br>
 ## Installez Balena Etcher sur votre ordinateur

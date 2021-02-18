@@ -39,13 +39,13 @@ Les non-officiels (souvents vendus dans les kits) causent des erreurs.
 ## Installez Balena Etcher
 Téléchargez et installez le logiciel Balena Etcher, nous l'utiliserons a l'étape suivante. 
 
-	[Site officiel](https://www.balena.io/etcher/){: .btn .btn-outline }
+[Balena.io/etcher](https://www.balena.io/etcher/){: .btn .btn-outline }
 
 
 <br>
 ## Téléchargez Umbrel OS
 Téléchargez le systéme d'exploitation Umbrel-OS, nous l'utiliserons a l'étape suivante. 
-	[Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
+[Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }
 
 
 
