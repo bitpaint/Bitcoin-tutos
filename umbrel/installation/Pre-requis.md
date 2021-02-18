@@ -15,6 +15,7 @@ nav_order: 1
 Commandez l'alimentation **oficielle** RaspberryPi4.<br>
 Les alimentations non-officiels (souvents vendus dans les kits) causent des erreurs.
 Pareil pour les cartes SD. N'économisez pas sur ces piéces.<br>
+
 ## Minumum requis:
 - Un ordinateur avec Balena Etcher installé & l'image Umbrel-OS
 - Un lecteur/graveur microSD (a commander ci-dessous si vous n'en avez pas)
@@ -22,6 +23,7 @@ Pareil pour les cartes SD. N'économisez pas sur ces piéces.<br>
 - Les pièces ci-dessous: 👇
 
 ## Liste de piéces:
+
 | Piéce        | Minimum requis | Version performance |
 |:-------------|:------------------|:------ |
 | **Boitier**  | Flirc   | Cryptocloaks.com |
