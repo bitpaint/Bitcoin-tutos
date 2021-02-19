@@ -26,12 +26,12 @@ Pareil pour les cartes SD. N'économisez pas sur ces piéces.<br>
 
 ## Liste de piéces:
 
-| Piéce        | Minimum requis | Version performance |
+| Piéce        | Version standard | Version performance |
 |:-------------|:------------------|:------ |
-| **Boitier**  | Flirc   | Cryptocloaks.com |
+| **Boitier**  | Flirc   | Flirc |
 | **Raspberry Pi4** | 4GB RAM			   | 8GB RAM |
-| **Disque dur 1TB** | HDD 1TB   | SSD 1TB   |
-| **microSD 16GB+** | U1 16 GB    | U1 16 GB   |
+| **Disque dur 1TB** | Seagate 1TB   | SanDisk 1TB   |
+| **microSD 16GB+** | SanDisk 16 GB    | SanDisk Extreme 128 GB   |
 | **Alimentation**    | RaspberryPi4 | RaspberryPi4  |
 | **Cable RJ45**   | 50cm | 50cm |
 | **Panier galaxus**     | [**189.-**](https://www.balena.io/etcher/){: .btn .btn-outline } | [329.-](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip){: .btn .btn-outline }  |
@@ -48,7 +48,6 @@ Téléchargez et installez le logiciel Balena Etcher,
 ## Téléchargez Umbrel OS 
 Téléchargez le systéme d'exploitation Umbrel-OS.
 <br><i>Nous l'utiliserons a l'étape suivante.</i> <br>
-
 👉 [Umbrel-os.zip](https://github.com/getumbrel/umbrel-os/releases/download/v0.3.2/umbrel-os-v0.3.2.zip ){: .btn .btn-outline }
 
 
